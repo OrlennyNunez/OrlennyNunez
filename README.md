@@ -1,4 +1,7 @@
 # Readme
+<p align="center">
+  <img src="Banner.png" alt="Orlenny Nuñez - AI Enthusiast" width="800"/>
+</p>
 About me
 # Hi 👋, I'm OrlennyNunez
 
